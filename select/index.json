@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "エンヴィーベイビー",
   "base_artist": "Kanaria",
-  "createdAt": "2025-12-28T05:02:14.018023Z",
+  "createdAt": "2026-03-20T13:09:59.147401Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -67,6 +67,15 @@
       "artist": "Kanaria",
       "has_synced": false,
       "path": "select/pl_01_エンヴィーベイビー_Kanaria.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "エンヴィーベイビー",
+      "artist": "Kanaria",
+      "has_synced": true,
+      "path": "select/localdb_01_エンヴィーベイビー_Kanaria.lrc",
+      "repo_name": "dgS6HvEohsw"
     }
   ]
 }
